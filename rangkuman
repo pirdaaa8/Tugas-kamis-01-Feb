@@ -1,0 +1,22 @@
+Nama : Virda Nuraini
+Kelas : X RPL 2
+
+Rangkuman :
+
+Apa itu Array?
+Ia adalah suatu tipe data yang bersifat spesial dalam PHP, ia bisa menyimpan himpunan beberapa nilai dalam satu variabel saja.
+Array Terindeks
+Di dalam PHP, ada dua jenis array: array terindeks dan array asosiatif. Array terindeks adalah array yang setiap itemnya terbedakan dengan indeks tertentu. Indeks tersebut bertipe data integer dan selalu dimulai dari angka 0.
+
+Array Asosiatif
+Ia adalah suatu array di mana key atau kuncinya bukan berupa indeks integer yang dimulai dari 0, akan tetapi yang menjadi key-nya adalah suatu teks bertipe data string. Oleh karena itu ia dinamakan array asosiatif.
+
+Array Multidimensi
+Array multidimensi adalah suatu istilah untuk sebuah array, yang mana ia memiliki item berupa array yang lain.
+
+Fungsi Explode
+Kita bisa memecah-mecah string lalu mengubahnya ke dalam array dengan fungsi explode.
+Fungsi explode menerima 2 paramter:
+•	delimiter: yaitu sebuah string yang dijadikan pemisah
+•	string sasaran: yaitu sasaran string yang akan kita pecah menjadi suatu array
+
